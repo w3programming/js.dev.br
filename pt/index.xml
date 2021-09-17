@@ -6,5 +6,16 @@
     <description>Recent content in Aprenda JavaScript on JavaScript Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language><atom:link href="https://js.dev.br/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introdução ao JavaScript</title>
+      <link>https://js.dev.br/pt/tutorial/introducao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://js.dev.br/pt/tutorial/introducao/</guid>
+      <description>Esse tutorial de JavaScript é destinado tanto para usuários experientes quanto para usuários que estão apenas começando a sua jornada em programação.
+O JavaScript não é considerado uma linguagem compilada. O JavaScript é considerado uma linguagem interpretada, isso quer dizer que o navegador converte o código JavaScript em tempo real para uma linguagem de máquina que o computador possa entender.
+O JavaScript é uma linguagem de script baseada em objetos.</description>
+    </item>
+    
   </channel>
 </rss>

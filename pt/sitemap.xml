@@ -14,6 +14,18 @@
                 href="https://js.dev.br/pt/tutorial/"
                 />
   </url><url>
+    <loc>https://js.dev.br/pt/tutorial/introducao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://js.dev.br/en/tutorial/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://js.dev.br/pt/tutorial/introducao/"
+                />
+  </url><url>
     <loc>https://js.dev.br/pt/</loc>
     <xhtml:link
                 rel="alternate"
